@@ -1,4 +1,6 @@
-#WKU_CPS3320_W03_22SP Course Final Project
+#WKU_CPS3320_W03_22SP Course Final Project:
+
+Image classification of 36 kinds of vegetables or fruits by augmenting and learning from 3600 samples by using CNN neural network.
 
 For the first run: download the dataset → Run the data augmentation → Generates tf.data.Dataset → Build CNN network → Start training → Check the model → Save the trained model
 
